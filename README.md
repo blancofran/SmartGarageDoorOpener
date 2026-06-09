@@ -250,12 +250,6 @@ Los nombres exactos pueden variar según la configuración del dispositivo.
 
 ---
 
-## Flujo de Funcionamiento
-
-text Home Assistant        │        ▼ Entidad Cover        │        ▼ ESPHome        │        ▼ GPIO5 → Relé        │        ▼ Motor del Portón  Estado del Portón        │        ▼ Sensor Magnético        │        ▼ GPIO16        │        ▼ ESPHome        │        ▼ Home Assistant 
-
----
-
 ## Posibles Mejoras Futuras
 
 - Sensor adicional para detectar movimiento.
